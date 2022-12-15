@@ -1,4 +1,4 @@
-Technologies i used in this project:
+##Technologies i used in this project:
 
 - [Next.js](https://nextjs.org)
 - [NextAuth.js](https://next-auth.js.org)
